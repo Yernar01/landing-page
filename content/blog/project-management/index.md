@@ -15,18 +15,13 @@ Easily manage your projects - create ideation mind maps, Gantt charts, todo list
 
 ## Ideation
 
-Hugo Blox supports a Markdown extension for mindmaps.
-
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
-
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 <div class="highlight">
 <pre class="chroma">
 <code>
 ```markmap {height="200px"}
 - Hugo Modules
-  - Hugo Blox
   - blox-plugins-netlify
   - blox-plugins-netlify-cms
   - blox-plugins-reveal
@@ -39,7 +34,6 @@ renders as
 
 ```markmap {height="200px"}
 - Hugo Modules
-  - Hugo Blox
   - blox-plugins-netlify
   - blox-plugins-netlify-cms
   - blox-plugins-reveal
@@ -47,7 +41,7 @@ renders as
 
 ## Diagrams
 
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
+Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
 
 An example **Gantt diagram**:
 
